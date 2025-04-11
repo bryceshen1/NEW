@@ -2,7 +2,7 @@ name: Complete Step 3
 
 on:
   workflow_dispatch:
-    description: 'Run this after completing Step 3 (Setting Up Automations)'
+    description: 'Run this after completing Step 3 (Setting Up Custom Fields)'
 
 jobs:
   update:
